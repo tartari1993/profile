@@ -1,6 +1,8 @@
 body {
   background: #d0ddee;
   color: #000000;
+  background-image: url('images/arte.jpeg');
+  background-size: cover;
 }
 
 h1 {
@@ -50,8 +52,9 @@ img {
 }
 
 #image-circle {
-  border-radius: 50%;
+  border-radius: 60%;
 }
+
 
 .list-inline > li {
   display: inline-block;
